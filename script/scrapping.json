@@ -1,0 +1,802 @@
+[
+      {
+            "No": "1",
+            "Judul": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+            "Author": "J.K. Rowling",
+            "Rating": "4.48 avg rating \u2014 8,382,182 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022i/3._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:29"
+      },
+      {
+            "No": "2",
+            "Judul": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+            "Author": "Rick Riordan",
+            "Rating": "4.28 avg rating \u2014 2,397,859 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400602609i/28187._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:30"
+      },
+      {
+            "No": "3",
+            "Judul": "The Hunger Games (The Hunger Games, #1)",
+            "Author": "Suzanne Collins",
+            "Rating": "4.32 avg rating \u2014 7,287,242 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:30"
+      },
+      {
+            "No": "4",
+            "Judul": "Twilight (The Twilight Saga, #1)",
+            "Author": "Stephenie Meyer",
+            "Rating": "3.62 avg rating \u2014 5,669,632 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039443i/41865._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:31"
+      },
+      {
+            "No": "5",
+            "Judul": "The Giver (The Giver, #1)",
+            "Author": "Lois Lowry",
+            "Rating": "4.13 avg rating \u2014 2,077,781 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342493368i/3636._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:31"
+      },
+      {
+            "No": "6",
+            "Judul": "The Fault in Our Stars",
+            "Author": "John Green",
+            "Rating": "4.17 avg rating \u2014 4,253,282 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632632557i/11870085._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:32"
+      },
+      {
+            "No": "7",
+            "Judul": "City of Bones (The Mortal Instruments, #1)",
+            "Author": "Cassandra Clare",
+            "Rating": "4.08 avg rating \u2014 1,807,205 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730315i/256683._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:32"
+      },
+      {
+            "No": "8",
+            "Judul": "Divergent (Divergent, #1)",
+            "Author": "Veronica Roth",
+            "Rating": "4.17 avg rating \u2014 3,387,014 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618526890i/13335037._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:33"
+      },
+      {
+            "No": "9",
+            "Judul": "To Kill a Mockingbird",
+            "Author": "Harper Lee",
+            "Rating": "4.27 avg rating \u2014 5,200,826 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:33"
+      },
+      {
+            "No": "10",
+            "Judul": "The Book Thief",
+            "Author": "Markus Zusak",
+            "Rating": "4.38 avg rating \u2014 2,142,551 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426i/19063._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:34"
+      },
+      {
+            "No": "11",
+            "Judul": "The Perks of Being a Wallflower",
+            "Author": "Stephen Chbosky",
+            "Rating": "4.22 avg rating \u2014 1,480,905 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520093244i/22628._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:34"
+      },
+      {
+            "No": "12",
+            "Judul": "The Hobbit, or There and Back Again",
+            "Author": "J.R.R. Tolkien",
+            "Rating": "4.28 avg rating \u2014 3,324,018 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:34"
+      },
+      {
+            "No": "13",
+            "Judul": "Holes (Holes, #1)",
+            "Author": "Louis Sachar",
+            "Rating": "3.98 avg rating \u2014 1,076,828 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618269830i/38709._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:35"
+      },
+      {
+            "No": "14",
+            "Judul": "The Outsiders",
+            "Author": "S.E. Hinton",
+            "Rating": "4.11 avg rating \u2014 1,101,443 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442129426i/231804._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:35"
+      },
+      {
+            "No": "15",
+            "Judul": "The Golden Compass (His Dark Materials, #1)",
+            "Author": "Philip Pullman",
+            "Rating": "really liked it",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203i/119322._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:36"
+      },
+      {
+            "No": "16",
+            "Judul": "The Host (The Host, #1)",
+            "Author": "Stephenie Meyer",
+            "Rating": "3.85 avg rating \u2014 951,226 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318009171i/1656001._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:36"
+      },
+      {
+            "No": "17",
+            "Judul": "Looking for Alaska",
+            "Author": "John Green",
+            "Rating": "3.99 avg rating \u2014 1,329,998 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394798630i/99561._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:36"
+      },
+      {
+            "No": "18",
+            "Judul": "Vampire Academy (Vampire Academy, #1)",
+            "Author": "Richelle Mead",
+            "Rating": "4.11 avg rating \u2014 601,630 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361098973i/345627._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:37"
+      },
+      {
+            "No": "19",
+            "Judul": "Eragon (The Inheritance Cycle, #1)",
+            "Author": "Christopher Paolini",
+            "Rating": "3.92 avg rating \u2014 1,583,250 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366212852i/113436._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:37"
+      },
+      {
+            "No": "20",
+            "Judul": "A Wrinkle in Time (Time Quintet, #1)",
+            "Author": "Madeleine L'Engle",
+            "Rating": "3.99 avg rating \u2014 1,114,945 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507963312i/33574273._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:37"
+      },
+      {
+            "No": "21",
+            "Judul": "Uglies (Uglies, #1)",
+            "Author": "Scott Westerfeld",
+            "Rating": "3.85 avg rating \u2014 610,386 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443904172i/24770._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:38"
+      },
+      {
+            "No": "22",
+            "Judul": "Clockwork Angel (The Infernal Devices, #1)",
+            "Author": "Cassandra Clare",
+            "Rating": "4.32 avg rating \u2014 757,799 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454962884i/7171637._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:38"
+      },
+      {
+            "No": "23",
+            "Judul": "Ella Enchanted (Ella Enchanted #1)",
+            "Author": "Gail Carson Levine",
+            "Rating": "3.99 avg rating \u2014 401,368 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410727190i/24337._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:38"
+      },
+      {
+            "No": "24",
+            "Judul": "Bridge to Terabithia",
+            "Author": "Katherine Paterson",
+            "Rating": "4.02 avg rating \u2014 494,359 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532478367i/40940121._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:39"
+      },
+      {
+            "No": "25",
+            "Judul": "Pride and Prejudice",
+            "Author": "Jane Austen",
+            "Rating": "4.28 avg rating \u2014 3,545,543 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:39"
+      },
+      {
+            "No": "26",
+            "Judul": "Speak",
+            "Author": "Laurie Halse Anderson",
+            "Rating": "4.03 avg rating \u2014 530,149 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529044298i/39280444._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:39"
+      },
+      {
+            "No": "27",
+            "Judul": "Little Women",
+            "Author": "Louisa May Alcott",
+            "Rating": "4.12 avg rating \u2014 1,913,581 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562690475i/1934._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:40"
+      },
+      {
+            "No": "28",
+            "Judul": "Charlotte's Web",
+            "Author": "E.B. White",
+            "Rating": "4.18 avg rating \u2014 1,607,088 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628267712i/24178._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:40"
+      },
+      {
+            "No": "29",
+            "Judul": "The Maze Runner (The Maze Runner, #1)",
+            "Author": "James Dashner",
+            "Rating": "4.04 avg rating \u2014 1,256,103 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375596592i/6186357._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:40"
+      },
+      {
+            "No": "30",
+            "Judul": "The Lost Hero (The Heroes of Olympus, #1)",
+            "Author": "Rick Riordan",
+            "Rating": "4.32 avg rating \u2014 719,866 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201003i/7736182._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:41"
+      },
+      {
+            "No": "31",
+            "Judul": "The Little Prince",
+            "Author": "Antoine de Saint-Exup\u00e9ry",
+            "Rating": "4.32 avg rating \u2014 1,692,511 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443i/157993._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:41"
+      },
+      {
+            "No": "32",
+            "Judul": "Graceling (Graceling Realm, #1)",
+            "Author": "Kristin Cashore",
+            "Rating": "4.07 avg rating \u2014 424,497 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331548394i/3236307._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:42"
+      },
+      {
+            "No": "33",
+            "Judul": "The Bad Beginning (A Series of Unfortunate Events, #1)",
+            "Author": "Lemony Snicket",
+            "Rating": "3.97 avg rating \u2014 457,135 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436737029i/78411._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:42"
+      },
+      {
+            "No": "34",
+            "Judul": "Number the Stars",
+            "Author": "Lois Lowry",
+            "Rating": "4.17 avg rating \u2014 504,256 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630542426i/47281._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:42"
+      },
+      {
+            "No": "35",
+            "Judul": "Inkheart (Inkworld, #1)",
+            "Author": "Cornelia Funke",
+            "Rating": "3.90 avg rating \u2014 398,895 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538266636i/28194._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:42"
+      },
+      {
+            "No": "36",
+            "Judul": "Ender's Game (Ender's Saga, #1)",
+            "Author": "Orson Scott Card",
+            "Rating": "4.30 avg rating \u2014 1,241,415 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130i/375802._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:43"
+      },
+      {
+            "No": "37",
+            "Judul": "Hush, Hush (Hush, Hush, #1)",
+            "Author": "Becca Fitzpatrick",
+            "Rating": "3.94 avg rating \u2014 645,383 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358261334i/6339664._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:43"
+      },
+      {
+            "No": "38",
+            "Judul": "Thirteen Reasons Why",
+            "Author": "Jay Asher",
+            "Rating": "3.88 avg rating \u2014 870,232 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555345043i/29844228._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:44"
+      },
+      {
+            "No": "39",
+            "Judul": "Charlie and the Chocolate Factory (Charlie Bucket, #1)",
+            "Author": "Roald Dahl",
+            "Rating": "4.15 avg rating \u2014 753,315 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309211401i/6310._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:44"
+      },
+      {
+            "No": "40",
+            "Judul": "Anne of Green Gables (Anne of Green Gables, #1)",
+            "Author": "L.M. Montgomery",
+            "Rating": "4.28 avg rating \u2014 841,159 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615094578i/8127._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:44"
+      },
+      {
+            "No": "41",
+            "Judul": "The Secret Garden",
+            "Author": "Frances Hodgson Burnett",
+            "Rating": "4.14 avg rating \u2014 1,016,537 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327873635i/2998._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:45"
+      },
+      {
+            "No": "42",
+            "Judul": "Artemis Fowl (Artemis Fowl, #1)",
+            "Author": "Eoin Colfer",
+            "Rating": "3.85 avg rating \u2014 527,835 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630661894i/249747._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:45"
+      },
+      {
+            "No": "43",
+            "Judul": "Stargirl (Stargirl, #1)",
+            "Author": "Jerry Spinelli",
+            "Rating": "3.77 avg rating \u2014 313,640 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335947642i/22232._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:45"
+      },
+      {
+            "No": "44",
+            "Judul": "Island of the Blue Dolphins",
+            "Author": "Scott O'Dell",
+            "Rating": "3.85 avg rating \u2014 313,175 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533405446i/41044096._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:46"
+      },
+      {
+            "No": "45",
+            "Judul": "Tuck Everlasting",
+            "Author": "Natalie Babbitt",
+            "Rating": "3.89 avg rating \u2014 252,831 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445184695i/84981._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:46"
+      },
+      {
+            "No": "46",
+            "Judul": "The Sisterhood of the Traveling Pants (Sisterhood, #1)",
+            "Author": "Ann Brashares",
+            "Rating": "3.81 avg rating \u2014 663,019 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461611233i/452306._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:47"
+      },
+      {
+            "No": "47",
+            "Judul": "The City of Ember (Book of Ember, #1)",
+            "Author": "Jeanne DuPrau",
+            "Rating": "3.88 avg rating \u2014 263,510 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591616783i/307791._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:47"
+      },
+      {
+            "No": "48",
+            "Judul": "Lord of the Flies",
+            "Author": "William Golding",
+            "Rating": "3.69 avg rating \u2014 2,541,478 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409i/7624._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:47"
+      },
+      {
+            "No": "49",
+            "Judul": "Paper Towns",
+            "Author": "John Green",
+            "Rating": "3.75 avg rating \u2014 1,129,109 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349013610i/6442769._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:48"
+      },
+      {
+            "No": "50",
+            "Judul": "Coraline",
+            "Author": "Neil Gaiman",
+            "Rating": "4.08 avg rating \u2014 565,668 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493497435i/17061._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:48"
+      },
+      {
+            "No": "51",
+            "Judul": "The Angel Experiment (Maximum Ride, #1)",
+            "Author": "James Patterson",
+            "Rating": "4.07 avg rating \u2014 216,063 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339277875i/13152._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:48"
+      },
+      {
+            "No": "52",
+            "Judul": "Marked (House of Night, #1)",
+            "Author": "P.C. Cast",
+            "Rating": "3.80 avg rating \u2014 462,468 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317067002i/30183._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:49"
+      },
+      {
+            "No": "53",
+            "Judul": "The Catcher in the Rye",
+            "Author": "J.D. Salinger",
+            "Rating": "3.81 avg rating \u2014 3,075,908 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:49"
+      },
+      {
+            "No": "54",
+            "Judul": "The Phantom Tollbooth",
+            "Author": "Norton Juster",
+            "Rating": "4.18 avg rating \u2014 267,021 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558858485i/378._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:50"
+      },
+      {
+            "No": "55",
+            "Judul": "Hatchet (Brian's Saga, #1)",
+            "Author": "Gary Paulsen",
+            "Rating": "3.75 avg rating \u2014 345,792 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385297074i/50._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:50"
+      },
+      {
+            "No": "56",
+            "Judul": "Cinder (The Lunar Chronicles, #1)",
+            "Author": "Marissa Meyer",
+            "Rating": "4.13 avg rating \u2014 798,778 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507557775i/36381037._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:50"
+      },
+      {
+            "No": "57",
+            "Judul": "Shiver (The Wolves of Mercy Falls, #1)",
+            "Author": "Maggie Stiefvater",
+            "Rating": "3.76 avg rating \u2014 460,520 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409283154i/6068551._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:51"
+      },
+      {
+            "No": "58",
+            "Judul": "The Princess Bride",
+            "Author": "William Goldman",
+            "Rating": "4.26 avg rating \u2014 836,761 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327903636i/21787._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:51"
+      },
+      {
+            "No": "59",
+            "Judul": "The Westing Game",
+            "Author": "Ellen Raskin",
+            "Rating": "4.01 avg rating \u2014 189,642 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356850909i/902._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:51"
+      },
+      {
+            "No": "60",
+            "Judul": "Just Listen",
+            "Author": "Sarah Dessen",
+            "Rating": "4.05 avg rating \u2014 242,380 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358270741i/51738._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:52"
+      },
+      {
+            "No": "61",
+            "Judul": "A Little Princess",
+            "Author": "Frances Hodgson Burnett",
+            "Rating": "4.21 avg rating \u2014 287,404 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868556i/3008._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:52"
+      },
+      {
+            "No": "62",
+            "Judul": "Are You There God? It's Me, Margaret",
+            "Author": "Judy Blume",
+            "Rating": "3.91 avg rating \u2014 200,558 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388356524i/37732._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:52"
+      },
+      {
+            "No": "63",
+            "Judul": "The Selection (The Selection, #1)",
+            "Author": "Kiera Cass",
+            "Rating": "4.11 avg rating \u2014 1,208,162 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322103400i/10507293._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:53"
+      },
+      {
+            "No": "64",
+            "Judul": "Fallen (Fallen, #1)",
+            "Author": "Lauren Kate",
+            "Rating": "3.72 avg rating \u2014 543,601 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440619649i/6487308._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:53"
+      },
+      {
+            "No": "65",
+            "Judul": "Where the Red Fern Grows",
+            "Author": "Wilson Rawls",
+            "Rating": "4.09 avg rating \u2014 371,315 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518702249i/10365._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:53"
+      },
+      {
+            "No": "66",
+            "Judul": "Matched (Matched, #1)",
+            "Author": "Ally Condie",
+            "Rating": "3.64 avg rating \u2014 716,157 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367706191i/7735333._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:54"
+      },
+      {
+            "No": "67",
+            "Judul": "Howl\u2019s Moving Castle (Howl\u2019s Moving Castle, #1)",
+            "Author": "Diana Wynne Jones",
+            "Rating": "4.28 avg rating \u2014 264,831 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630502935i/6294._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:54"
+      },
+      {
+            "No": "68",
+            "Judul": "The Truth About Forever",
+            "Author": "Sarah Dessen",
+            "Rating": "4.12 avg rating \u2014 217,030 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362767907i/51737._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:54"
+      },
+      {
+            "No": "69",
+            "Judul": "I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",
+            "Author": "Ally Carter",
+            "Rating": "3.83 avg rating \u2014 184,216 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334491180i/852470._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:55"
+      },
+      {
+            "No": "70",
+            "Judul": "A Great and Terrible Beauty (Gemma Doyle, #1)",
+            "Author": "Libba Bray",
+            "Rating": "3.79 avg rating \u2014 219,586 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1284558475i/3682._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:55"
+      },
+      {
+            "No": "71",
+            "Judul": "Princess Academy (Princess Academy, #1)",
+            "Author": "Shannon Hale",
+            "Rating": "4.01 avg rating \u2014 112,366 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349410861i/85990._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:56"
+      },
+      {
+            "No": "72",
+            "Judul": "Delirium (Delirium, #1)",
+            "Author": "Lauren Oliver",
+            "Rating": "3.96 avg rating \u2014 445,965 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327890411i/11614718._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:56"
+      },
+      {
+            "No": "73",
+            "Judul": "Beautiful Creatures (Caster Chronicles, #1)",
+            "Author": "Kami Garcia",
+            "Rating": "3.76 avg rating \u2014 572,639 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327873282i/6304335._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:56"
+      },
+      {
+            "No": "74",
+            "Judul": "The Curious Incident of the Dog in the Night-Time",
+            "Author": "Mark Haddon",
+            "Rating": "3.89 avg rating \u2014 1,328,412 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863624i/1618._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:57"
+      },
+      {
+            "No": "75",
+            "Judul": "Because of Winn-Dixie",
+            "Author": "Kate DiCamillo",
+            "Rating": "4.07 avg rating \u2014 229,683 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456871914i/357664._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:57"
+      },
+      {
+            "No": "76",
+            "Judul": "Black Beauty",
+            "Author": "Anna Sewell",
+            "Rating": "3.97 avg rating \u2014 257,439 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578265482i/3685._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:57"
+      },
+      {
+            "No": "77",
+            "Judul": "Alanna: The First Adventure (Song of the Lioness, #1)",
+            "Author": "Tamora Pierce",
+            "Rating": "4.25 avg rating \u2014 124,495 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388206270i/13831._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:58"
+      },
+      {
+            "No": "78",
+            "Judul": "Pippi Longstocking (Pippi L\u00e5ngstrump, #1)",
+            "Author": "Astrid Lindgren",
+            "Rating": "4.14 avg rating \u2014 183,657 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519300455i/19302._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:58"
+      },
+      {
+            "No": "79",
+            "Judul": "Legend (Legend, #1)",
+            "Author": "Marie Lu",
+            "Rating": "4.16 avg rating \u2014 472,105 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501368160i/9275658._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:58"
+      },
+      {
+            "No": "80",
+            "Judul": "Watership Down (Watership Down, #1)",
+            "Author": "Richard Adams",
+            "Rating": "4.07 avg rating \u2014 455,523 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405136931i/76620._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:03:59"
+      },
+      {
+            "No": "81",
+            "Judul": "The Goose Girl (The Books of Bayern, #1)",
+            "Author": "Shannon Hale",
+            "Rating": "4.12 avg rating \u2014 140,403 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617553319i/179064._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:00"
+      },
+      {
+            "No": "82",
+            "Judul": "Sabriel (Abhorsen, #1)",
+            "Author": "Garth Nix",
+            "Rating": "4.15 avg rating \u2014 197,647 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293655399i/518848._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:00"
+      },
+      {
+            "No": "83",
+            "Judul": "Where the Sidewalk Ends",
+            "Author": "Shel Silverstein",
+            "Rating": "4.31 avg rating \u2014 1,274,319 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168052448i/30119._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:01"
+      },
+      {
+            "No": "84",
+            "Judul": "The Graveyard Book",
+            "Author": "Neil Gaiman",
+            "Rating": "4.14 avg rating \u2014 484,339 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531295292i/2213661._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:01"
+      },
+      {
+            "No": "85",
+            "Judul": "Walk Two Moons",
+            "Author": "Sharon Creech",
+            "Rating": "3.98 avg rating \u2014 160,623 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389035862i/53496._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:02"
+      },
+      {
+            "No": "86",
+            "Judul": "Go Ask Alice",
+            "Author": "Beatrice Sparks",
+            "Rating": "3.76 avg rating \u2014 253,577 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327870536i/46799._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:02"
+      },
+      {
+            "No": "87",
+            "Judul": "From the Mixed-Up Files of Mrs. Basil E. Frankweiler",
+            "Author": "E.L. Konigsburg",
+            "Rating": "4.15 avg rating \u2014 200,190 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327784751i/3980._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:02"
+      },
+      {
+            "No": "88",
+            "Judul": "Fablehaven (Fablehaven, #1)",
+            "Author": "Brandon Mull",
+            "Rating": "4.11 avg rating \u2014 147,925 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460309528i/44652._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:03"
+      },
+      {
+            "No": "89",
+            "Judul": "Flipped",
+            "Author": "Wendelin Van Draanen",
+            "Rating": "3.96 avg rating \u2014 106,852 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388554293i/331920._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:03"
+      },
+      {
+            "No": "90",
+            "Judul": "The Summoning (Darkest Powers, #1)",
+            "Author": "Kelley Armstrong",
+            "Rating": "4.01 avg rating \u2014 167,137 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478986944i/2800905._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:04"
+      },
+      {
+            "No": "91",
+            "Judul": "The Absolutely True Diary of a Part-Time Indian",
+            "Author": "Sherman Alexie",
+            "Rating": "4.08 avg rating \u2014 246,977 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327908992i/693208._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:04"
+      },
+      {
+            "No": "92",
+            "Judul": "Evermore (The Immortals, #1)",
+            "Author": "Alyson Noel",
+            "Rating": "3.59 avg rating \u2014 280,483 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362336360i/3975774._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:04"
+      },
+      {
+            "No": "93",
+            "Judul": "The Lovely Bones",
+            "Author": "Alice Sebold",
+            "Rating": "3.83 avg rating \u2014 2,171,870 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457810586i/12232938._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:05"
+      },
+      {
+            "No": "94",
+            "Judul": "Among the Hidden (Shadow Children, #1)",
+            "Author": "Margaret Peterson Haddix",
+            "Rating": "3.99 avg rating \u2014 117,992 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388382796i/227651._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:05"
+      },
+      {
+            "No": "95",
+            "Judul": "Mrs. Frisby and the Rats of NIMH (Rats of NIMH, #1)",
+            "Author": "Robert C. O'Brien",
+            "Rating": "4.15 avg rating \u2014 170,593 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351191064i/9822._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:06"
+      },
+      {
+            "No": "96",
+            "Judul": "The Witch of Blackbird Pond",
+            "Author": "Elizabeth George Speare",
+            "Rating": "really liked it",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345499790i/703292._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:06"
+      },
+      {
+            "No": "97",
+            "Judul": "The Princess Diaries (The Princess Diaries, #1)",
+            "Author": "Meg Cabot",
+            "Rating": "3.80 avg rating \u2014 245,046 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355011082i/38980._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:07"
+      },
+      {
+            "No": "98",
+            "Judul": "This Lullaby",
+            "Author": "Sarah Dessen",
+            "Rating": "4.02 avg rating \u2014 176,129 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397779294i/22205._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:07"
+      },
+      {
+            "No": "99",
+            "Judul": "The House of the Scorpion (Matteo Alacran, #1)",
+            "Author": "Nancy Farmer",
+            "Rating": "4.07 avg rating \u2014 87,874 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401734230i/13376._SY75_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:07"
+      },
+      {
+            "No": "100",
+            "Judul": "Wicked Lovely (Wicked Lovely, #1)",
+            "Author": "Melissa Marr",
+            "Rating": "3.69 avg rating \u2014 162,377 ratings",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327814035i/305234._SX50_.jpg",
+            "Waktu_scrap": "2022-03-19 13:04:08"
+      }
+]
