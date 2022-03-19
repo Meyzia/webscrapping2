@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>211524048 - Web Scrapiing II</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+	<script src="jquery.min.js"></script>
+	<style>
+        html{
+            font-family: 'Oswald','Quicksand',sans-serif;
+            background-color: rgb(139, 96, 39);
+        }
+        table{
+            vertical-align: middle;
+            border-collapse: collapse;
+            margin: auto;
+            background-color: white;
+        }
+        table td{
+            padding: 20px;
+            border: 2px dotted rgb(139, 96, 39);
+        }
+        table tr.header{
+            font-weight: bolder;
+            color: black;
+            background-color: rgb(219, 179, 134);
+            text-align: center;
+        }
+        table td.no{
+            font-weight: bold;
+            text-align: center;
+        }
+        tr:hover{
+          background-color: rgb(236, 236, 236);
+          font-weight: bold;
+        }
+        h1{
+            font-family: 'Oswald';
+            text-align: center;
+            font-size: 38pt;
+            font-weight: bold;
+            font-style: italic;
+            color: white;
+            text-shadow: 5px 5px black;
+        }
+    </style>
+</head>
+<body>
+
+	<h1>WEB SCRAPPING II</h1>
+    <div id="scrap">
+    </div>
+
+    <script type="text/javascript">
+        $(function(){
+            $.get('script/scrapping.json',function(obj){
+  
+                var str = "<table>";
+  
+                str+="<tr class='header'>"+
+                "<td>No</td>"+
+                "<td>Cover</td>"+
+                "<td>Judul</td>"+
+                "<td>Author</td>"+
+                "<td>Rating</td>"+
+                "<td>Waktu Scraping</td></tr>";
+  
+                $.each(obj, function(n,data){
+                    str+="<tr><td class='no'>"+data.No+"</td>";
+                    str+="<td><img src='"+data.Image+"'></td>";
+                    str+="<td>"+data.Judul+"</td>";
+                    str+="<td>"+data.Author+"</td>";
+                    str+="<td>"+data.Rating+"</td>";
+                    str+="<td>"+data.Waktu_scrap+"</td></tr>";
+                });
+                
+                str += "</table>";
+                $('#scrap').html(str);
+            });
+        });
+    </script>
+
+
+</body>
+</html>
